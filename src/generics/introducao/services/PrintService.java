@@ -5,7 +5,7 @@ import java.util.List;
 
 public class PrintService<T> {
 
-    private List<T> list = new ArrayList<>();
+    private  List<T> list = new ArrayList<>();
 
     public void addValue(T value){
         list.add(value);
