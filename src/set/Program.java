@@ -18,7 +18,7 @@ public class Program {
 
         System.out.println("########################");
 
-        Set<String> treeset = new TreeSet<>(); //TreeSet ordena os dados
+        Set<String> treeset = new TreeSet<>(); //TreeSet ordena os dados porem é mais lento.
         treeset.add("Tv");
         treeset.add("Tablet");
         treeset.add("Notebook");
