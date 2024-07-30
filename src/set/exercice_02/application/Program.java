@@ -3,6 +3,7 @@ package set.exercice_02.application;
 import set.exercice_02.entities.Student;
 
 import java.util.HashSet;
+import java.util.LinkedHashSet;
 import java.util.Scanner;
 import java.util.Set;
 
