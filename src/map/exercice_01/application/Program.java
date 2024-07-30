@@ -1,6 +1,6 @@
-package map.exercice.application;
+package map.exercice_01.application;
 
-import map.exercice.entities.Product;
+import map.exercice_01.entities.Product;
 
 import java.util.HashMap;
 import java.util.Map;

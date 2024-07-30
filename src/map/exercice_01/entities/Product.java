@@ -1,4 +1,4 @@
-package map.exercice.entities;
+package map.exercice_01.entities;
 
 import java.util.Objects;
 
