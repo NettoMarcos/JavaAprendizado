@@ -20,7 +20,7 @@ public class Program {
 
         Function<Product, String> func = p -> p.getName().toUpperCase();
 
-        List<String> names = list.stream().map(func).toList();
+        List<String> names = list.stream().map(p -> p.getName().toUpperCase()).toList();
 
         names.forEach(System.out::println);
 
